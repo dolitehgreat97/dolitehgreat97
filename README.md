@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @dolitehgreat97
+- 👀 I’m interested in linux, scripting, and automaiton
+- 🌱 I’m currently learning python, ansible, terraform, and different virtualizations
+- 📫 How to reach me: dolitehgreat@shutinnerd.com
